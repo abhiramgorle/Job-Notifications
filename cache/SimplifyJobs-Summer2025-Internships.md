@@ -357,7 +357,7 @@
 | **[EnergyHub](https://simplify.jobs/c/EnergyHub?utm_source=GHList&utm_medium=company)** | Engineering Intern - Client Connections | Brooklyn, NY | 🔒 | 2mo |
 | **[Coalition](https://simplify.jobs/c/Coalition?utm_source=GHList&utm_medium=company)** | Backend Engineer Intern | Remote in USA</br>Remote in Canada | 🔒 | 2mo |
 | **[Uhaul](https://simplify.jobs/c/Uhaul?utm_source=GHList&utm_medium=company)** | Software Development Summer Intern | Phoenix, AZ | 🔒 | 2mo |
-| **[Uhaul](https://simplify.jobs/c/Uhaul?utm_source=GHList&utm_medium=company)** | Software Development Summer Intern | Phoenix, AZ | 🔒 | 2mo |
+| ↳ | Software Development Summer Intern | Phoenix, AZ | 🔒 | 2mo |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company)** | Deep Learning Compiler Intern | Santa Clara, CA | 🔒 | 2mo |
 | **[Cadence Design Systems](https://simplify.jobs/c/Cadence-Design-Systems?utm_source=GHList&utm_medium=company)** | Software Architect Internship | Austin, TX | 🔒 | 2mo |
 | **[Pison](https://simplify.jobs/c/PisonTech?utm_source=GHList&utm_medium=company)** | Algo Productions Intern | Boston, MA | 🔒 | 2mo |
