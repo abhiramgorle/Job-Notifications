@@ -3,7 +3,7 @@ run-name: Sraping Jobs 🚀
 on:
   push:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/30 * * * *"
 jobs:
   ScrapeJobs:
     runs-on: ubuntu-latest
@@ -68,3 +68,19 @@ jobs:
           title: New Jobs Scraped - ${{ env.NOW }}
           labels: scrape
           body: ${{env.SCRAPER_OUTPUTS}}
+  
+  send-email:
+    needs: [ScrapeJobs, create-issue]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send email with job changes
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "Job Scraper Results"
+          to: testingalcove@gmail.com
+          from: ${{ secrets.EMAIL_USERNAME }}
+          body: ${{ needs.ScrapeJobs.outputs.SCRAPER_OUTPUTS }}
