@@ -3,7 +3,7 @@
   We're back! Use this repo to share and keep track of **Summer 2026 tech internships** across software, data science, quant, and more. The list is updated and maintained daily by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
 
 
-  🧠 For valuable tips on navigating the internship process, be sure to check out our guide: [**Zero to Offer**](https://zerotooffer.com/) 🧠 
+  🧠 For valuable tips on navigating the internship process, be sure to check out our guide: [**Zero to Offer**](https://web.archive.org/web/20250319235510/https://pittcs.wiki/zero-to-offer/) 🧠 
 
   🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
