@@ -5,7 +5,7 @@
 
   🧠 For valuable tips on navigating the internship process, be sure to check out our guide: [**Zero to Offer**](https://zerotooffer.com/) 🧠 
 
-  🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+  🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
 
@@ -70,7 +70,7 @@
 
 ## 💻 Software Engineering Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -84,7 +84,7 @@
 
 ## 📈 Quantitative Finance Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -100,7 +100,7 @@
 
 ## 🔧 Hardware Engineering Internship Roles
 
-[Back to top](#summer-2025-tech-internships-by-pitt-csc--simplify)
+[Back to top](#summer-2026-tech-internships-by-pitt-csc--simplify)
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
@@ -108,12 +108,12 @@
 
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-  [⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2025-Internships#the-list-)
+  [⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/Summer2026-Internships#the-list-)
 
   ## We love our contributors ❤️❤️
 
-  Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2025-Internships/issues/new/choose)!
-  <a href="https://github.com/pittcsc/Summer2025-Internships/graphs/contributors">
+  Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2026-Internships/issues/new/choose)!
+  <a href="https://github.com/pittcsc/Summer2026-Internships/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pittcsc/Summer2025-Internships&columns=24&max=480" />
   </a>
   _Made with [contrib.rocks](https://contrib.rocks)._
