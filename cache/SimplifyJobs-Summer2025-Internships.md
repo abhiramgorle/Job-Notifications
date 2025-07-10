@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 83 Internship Roles by Category
+### Browse 81 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (34)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (12)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (33)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (31)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (4)
 
@@ -170,8 +170,7 @@
 | ↳ | Quantitative Developer Intern | Boston, MA | <div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565291006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | ↳ | Equity Volatility Quant Researcher Intern | Miami, FL | <div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4572985006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | Voloridge | Quantitative Research Intern | Jupiter, FL | <div align="center"><a href="https://voloridge-investment-management.hiringthing.com/job/889639/quantitative-research-intern-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
-| Susquehanna | Growth Equity Investment Analyst Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9053/Growth-Equity-Investment-Analyst-Internship-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
-| ↳ | Quantitative Systematic Trading Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9304/Quantitative-Systematic-Trading-Internship-PhD-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
+| Susquehanna | Quantitative Systematic Trading Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9304/Quantitative-Systematic-Trading-Internship-PhD-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | ↳ | Quantitative Research Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9238/Quantitative-Research-Internship-PhD-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | ↳ | Quantitative Trader Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9377/Quantitative-Trader-Internship-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
 | ↳ | Quantitative Strategy Developer Intern | Bala Cynwyd, PA | <div align="center"><a href="https://careers.sig.com/job/9532/Quantitative-Strategy-Developer-Internship-Summer-2026?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
@@ -196,7 +195,6 @@
 | ↳ | Quantitative Trader Intern - Summer 2026 | Chicago, IL | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/7832160002/?gh_jid=7832160002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2a1f8c37-115f-45dd-88d6-8d6be5708688?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
 | **[IMC Trading](https://simplify.jobs/c/IMC-Trading?utm_source=GHList&utm_medium=company)** | Quantitative Research Intern - BS/MS | Chicago, IL | <div align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4580808101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/6d2c19bd-5399-4a49-9aab-a4739ec8b1fd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
 | ↳ | Quantitative Trader Intern | Chicago, IL | <div align="center"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4580757101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/58423c76-0d80-435f-b226-e29ee7fa5bf1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 8d |
-| **[AQR Capital Management](https://simplify.jobs/c/AQR-Capital-Management?utm_source=GHList&utm_medium=company)** | Portfolio Implementation – Trading and Portfolio Finance Summer Analyst | Greenwich, CT | <div align="center"><a href="https://careers.aqr.com/jobs?gh_jid=7022101&gh_jid=7022101&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/68d2753c-5981-4e79-b199-46c3a0769c20?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 9d |
 | **[TransMarket Group](https://simplify.jobs/c/TransMarket-Group?utm_source=GHList&utm_medium=company)** | Quantitative Trader Intern | Chicago, IL | <div align="center"><a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/4749915007?gh_jid=4749915007&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4f91f9ad-06fc-4170-9f01-5a7b006d0539?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1mo |
 
 
