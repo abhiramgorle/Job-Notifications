@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Texas Health Science Center at Houston (UTHealth Houston)](http://www.uth.edu)** | **[Postdoctoral Research Fellow - School of Public Health](https://jobright.ai/jobs/info/68706487a5ae807a59cf804c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jul 10 |
+| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Administrative & Data Analytics Assistant Intern](https://jobright.ai/jobs/info/68705f61a5ae807a59cf7e87?utm_campaign=1066&utm_source=git)** | Allen, TX | Hybrid | Jul 10 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist, Product Analytics - USDS](https://jobright.ai/jobs/info/6870381606ad7073463bc212?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jul 10 |
+| **[University of New Hampshire](https://www.unh.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/6870400f01cc0956e7e80954?utm_campaign=1066&utm_source=git)** | Durham, NH | On Site | Jul 10 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/687016c406ad7073463baf09?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 10 |
 | **[Businessolver](https://www.businessolver.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/686ffe0d06ad7073463ba3a0?utm_campaign=1066&utm_source=git)** | Work Remotely Anywhere in the U.S. | Remote | Jul 10 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/687015e206ad7073463bae80?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 10 |
