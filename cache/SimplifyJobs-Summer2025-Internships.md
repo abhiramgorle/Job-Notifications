@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 103 Internship Roles by Category
+### Browse 104 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (43)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (15)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (38)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (39)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (7)
 
@@ -180,6 +180,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Optiver](https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company)** | Trading Operations Analyst Intern | Chicago, IL | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/8078284002/?gh_jid=8078284002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b0e9ecde-edb9-4d18-a010-544b56b16851?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | Two Sigma | Quantitative Researcher | New York, NY | <div align="center"><a href="https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Internship-2026-Summer/13257?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Akuna Capital](https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company)** | Quantitative Research | Chicago, IL | <div align="center"><a href="https://akunacapital.com/job-details?gh_jid=7055793&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | CTC | Quant Trading | Chicago, IL | <div align="center"><a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4543280005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
