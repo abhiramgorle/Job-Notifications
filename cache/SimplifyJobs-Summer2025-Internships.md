@@ -11,9 +11,9 @@
 
 ### Browse 108 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (44)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (43)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (16)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (17)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (41)
 
@@ -93,7 +93,6 @@
 | **[Palantir](https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Denver, CO | <div align="center"><a href="https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 14d |
 | N1 | Software Engineer Intern (Backend, Rust) | New York | <div align="center"><a href="https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 14d |
 | ↳ | Software Engineer Intern (Fullstack) | New York | <div align="center"><a href="https://jobs.ashbyhq.com/n1/b531e33f-d1c2-4892-b6b7-13ce22569578?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 14d |
-| **[Merck](https://simplify.jobs/c/Merck?utm_source=GHList&utm_medium=company)** | IT Intern | Rahway, NJ</br>West Point, PA</br>Austin, TX | <div align="center"><a href="https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2026-University-Recruiting---IT-Emerging-Talent-Summer-Intern-Program--Hybrid-_R355518-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 14d |
 | Epic | Software Development Intern 🇺🇸 | Madison, WI | <div align="center"><a href="https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2026/27259?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 14d |
 | D. E. Shaw | Software Developer Intern | New York, NY | <div align="center"><a href="https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2026-5521?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 14d |
 | **[Citadel Securities](https://simplify.jobs/c/Citadel-Securities?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | Miami, FL</br>New York, NY | <div align="center"><a href="https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c76dbe61-c0f6-47a8-b05e-b219b4e28fb7?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 14d |
@@ -146,6 +145,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| Kearney&Co | Data Analytics Internship 🇺🇸 | Alexandria, VA | <div align="center"><a href="https://careers.kearneyco.com/jobs/4822?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | 2026 Analytics and Data Summer Internship - Early Careers | <details><summary>**4 locations**</summary>Des Moines, IA</br>Dallas, TX</br>Charlotte, NC</br>Minneapolis, MN</details> | <div align="center"><a href="https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Analytics-and-Data-Summer-Internship---Early-Careers_R-475778?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b33274f6-acab-4bf6-9237-e62c8ad81770?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Walleye Capital](https://simplify.jobs/c/Walleye-Capital?utm_source=GHList&utm_medium=company)** | Investment Data Science Intern | NYC | <div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565271006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/46895a50-4c9a-41cc-aa44-fe8c9aa4abe4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | Caterpillar | Digital and Analytics | Chicago, IL</br>Peoria, IL</br>Irving, TX | <div align="center"><a href="https://careers.caterpillar.com/en/jobs/r0000313300/2026-summer-corporate-intern-digital-and-analytics?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 5d |
