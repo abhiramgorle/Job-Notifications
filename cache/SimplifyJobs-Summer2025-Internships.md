@@ -9,13 +9,13 @@
 
 ---
 
-### Browse 112 Internship Roles by Category
+### Browse 114 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (44)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (45)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (18)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (42)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (43)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (8)
 
@@ -76,6 +76,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[GE Aerospace](https://simplify.jobs/c/GE-Aerospace?utm_source=GHList&utm_medium=company)** | Digital Technology Intern | Livonia, MI</br>Cincinnati, OH | <div align="center"><a href="https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Summer-2026_R5002160-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ea019bd3-3a85-4f49-b027-cd92cd78fd28?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 1d |
 | **[Asana](https://simplify.jobs/c/Asana?utm_source=GHList&utm_medium=company)** | Software Engineer Intern | San Francisco CA | <div align="center"><a href="https://asana.com/jobs/apply/7078079?gh_jid=7078079&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 2d |
+| **[Virtu Financial](https://simplify.jobs/c/Virtu-Financial?utm_source=GHList&utm_medium=company)** | Internship - Software Engineer | Austin, TX</br>NYC | <div align="center"><a href="https://job-boards.greenhouse.io/virtu/jobs/7848570002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e7e7311b-f4f9-4904-a2aa-c7381e1c41da?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | Software Engineer 🛂 | <details><summary>**5 locations**</summary>Charlotte, NC</br>Phoenix, AZ</br>Chandler, AZ</br>Iselin, NJ</br>Irving, TX</details> | <div align="center"><a href="https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2026-Technology-Summer-Internship---Early-Careers--Software-Engineer-_R-474982?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ffe51158-461e-4569-ba8e-006aa3653f36?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | ↳ | 2025 Emerging Talent Apprentice - Lgcc | NYC | <div align="center"><a href="https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/NEW-YORK-NY/XMLNAME-2025-Emerging-Talent-Apprentice---LGCC_R-475686-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/556191e3-8d71-4017-b725-d0fa4bc80939?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | CTC | Software Engineer | Chicago, IL</br>New York, NY | <div align="center"><a href="https://job-boards.greenhouse.io/ctccampusboard/jobs/4545359005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 10d |
@@ -186,6 +187,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Virtu Financial](https://simplify.jobs/c/Virtu-Financial?utm_source=GHList&utm_medium=company)** | Internship - Quantitative Trading | Austin, TX</br>Chicago, IL</br>NYC | <div align="center"><a href="https://job-boards.greenhouse.io/virtu/jobs/7848562002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/537506fa-8161-4592-bc12-3148cee4cb76?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[Five Rings Capital](https://simplify.jobs/c/Five-Rings?utm_source=GHList&utm_medium=company)** | Summer Intern - Quantitative Research Analyst | NYC | <div align="center"><a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4563192008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1c9ad46a-3060-4def-9979-2154b31b7e19?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[Walleye Capital](https://simplify.jobs/c/Walleye-Capital?utm_source=GHList&utm_medium=company)** | Central Risk Book – Quant Research Intern - Crb | NYC | <div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-internships/jobs/4565272006?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/24bd5cf5-6584-47ec-b744-6656776fb7c6?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[Optiver](https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company)** | Trading Operations Analyst Intern | Chicago, IL | <div align="center"><a href="https://optiver.com/working-at-optiver/career-opportunities/8078284002/?gh_jid=8078284002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b0e9ecde-edb9-4d18-a010-544b56b16851?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 9d |
