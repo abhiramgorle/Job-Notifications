@@ -184,7 +184,7 @@
 | ------- | ---- | -------- | ------ | -- |
 | **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | 2026 Analytics and Data Summer Internship - Early Careers | <details><summary>**4 locations**</summary>Des Moines, IA</br>Dallas, TX</br>Charlotte, NC</br>Minneapolis, MN</details> | 🔒 | 7d |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Data Analyst Intern | McLean, VA</br>Richmond, VA | 🔒 | 13d |
-| **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | 2026 Summer Corporate Intern - Digital and Analytics | Peoria, IL</br>Chicago, IL</br>Irving, TX | 🔒 | 14d |
+| **[Caterpillar Inc.](https://simplify.jobs/c/Caterpillar-Inc?utm_source=GHList&utm_medium=company)** | 2026 Summer Corporate Intern - Digital and Analytics | Peoria, IL</br>Chicago, IL</br>Irving, TX | 🔒 | 15d |
 | **[Lamb Weston](https://simplify.jobs/c/Lamb-Weston?utm_source=GHList&utm_medium=company)** | Lamb Weston Summer Internship Program | Kennewick, WA | 🔒 | 20d |
 | **[Comcast](https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company)** | ERP Internship: Rising Senior Technology | Orlando, FL</br>Philadelphia, PA</br>New York, NY | 🔒 | 21d |
 
