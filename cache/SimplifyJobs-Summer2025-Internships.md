@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 125 Internship Roles by Category
+### Browse 126 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (50)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (51)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (23)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| Genworth | IT Development Program Intern 🛂 | Richmond, VA | <div align="center"><a href="https://gnw.wd1.myworkdayjobs.com/en-US/GNW/job/Richmond%2C-Virginia/Genworth-IT-Development-Program-Intern---Summer-2026_REQ-250327?workerSubType=7fa6841689a6106a8c0af76995631b08&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Castleton Commodities International](https://simplify.jobs/c/Castleton-Commodities-International?utm_source=GHList&utm_medium=company)** | Front Office Software Engineer Internship | Stamford, CT | <div align="center"><a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/London-UK/Front-Office-Software-Engineer-Internship----Summer-2026-_R1107?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/09491847-511e-461e-8a2a-b4108caaf627?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | ↳ | Front Office Software Engineer Internship | Stamford, CT | <div align="center"><a href="https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Front-Office-Software-Engineer-Internship--Summer-2026-_R1106?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/093f6be9-fd78-41ea-b6bb-b6898de4fe91?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Hudson River Trading](https://simplify.jobs/c/Hudson-River-Trading?utm_source=GHList&utm_medium=company)** | Software Engineering Internship | NYC | <div align="center"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=6998786&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e961b830-9cec-45ea-8007-4a01b4ce8128?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
