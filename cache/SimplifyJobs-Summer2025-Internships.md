@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 166 Internship Roles by Category
+### Browse 165 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (81)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (80)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (25)
 
@@ -91,7 +91,6 @@
 | **[Chase](https://simplify.jobs/c/Chase?utm_source=GHList&utm_medium=company)** | 2026 Software Engineer Program – Summer Internship 🛂 | Austin, TX | <div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/jobs/job/210650080?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2a36841c-b128-4f9b-a663-04fe307327c2?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[M&T Bank](https://simplify.jobs/c/M-And-T-Bank?utm_source=GHList&utm_medium=company)** | Technology Internship Program | Buffalo, NY | <div align="center"><a href="https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9551aba3-b479-4be7-ac1c-b13c55c7e694?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
 | **[DotDash Meredith](https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Alberta, Canada | <div align="center"><a href="https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Alberta-CAN-Remote/Software-Developer-Intern_JR14724?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/acb8c9a5-09d5-4a77-9d59-725ff8b89efb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 3d |
-| **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Software Development Intern | Dulles, VA | <div align="center"><a href="https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Software-Development-Intern---Summer-2026_315321-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5ee98427-9639-4bd1-aab3-77bf5b44bcaf?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 4d |
 | **[SEL](https://simplify.jobs/c/SEL?utm_source=GHList&utm_medium=company)** | Software Application Engineer Intern | Pullman, WA | <div align="center"><a href="https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Application-Engineer-Intern_2025-17664?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
 | **[KBR](https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company)** | Software Engineer Intern 🛂 | Sioux Falls, SD | <div align="center"><a href="https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer-Intern_R2109933?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
 | **[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)** | Cloud Media Services Intern | Palo Alto, CA | <div align="center"><a href="https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R105781?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 4d |
@@ -158,11 +157,12 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (7)</summary>
+<summary>🗃️ Inactive roles (8)</summary>
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
 | Kimley Horn | Software Developer Intern | Raleigh, NC | 🔒 | 3d |
+| **[CACI](https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company)** | Software Development Intern | Dulles, VA | 🔒 | 4d |
 | **[Wells Fargo](https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company)** | 2025 Emerging Talent Apprentice - Lgcc | NYC | 🔒 | 13d |
 | **[Booz Allen](https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company)** | University – Systems Engineer Intern | Fayetteville, NC | 🔒 | 23d |
 | **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Product Development Internship Program 🛂 | Plano, TX McLean, VA | 🔒 | 27d |
