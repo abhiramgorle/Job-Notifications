@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 188 Internship Roles by Category
+### Browse 187 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (97)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (96)
 
 🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (28)
 
@@ -109,7 +109,6 @@
 | **[M&T Bank](https://simplify.jobs/c/M-And-T-Bank?utm_source=GHList&utm_medium=company)** | Technology Internship Program | Buffalo, NY | <div align="center"><a href="https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2026-Technology-Internship-Program_R72035?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9551aba3-b479-4be7-ac1c-b13c55c7e694?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[DotDash Meredith](https://simplify.jobs/c/DotDash-Meredith?utm_source=GHList&utm_medium=company)** | Software Developer Intern | Alberta, Canada | <div align="center"><a href="https://meredith.wd5.myworkdayjobs.com/en-US/EXT/job/Alberta-CAN-Remote/Software-Developer-Intern_JR14724?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/acb8c9a5-09d5-4a77-9d59-725ff8b89efb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 5d |
 | **[Baseten](https://simplify.jobs/c/Baseten?utm_source=GHList&utm_medium=company)** | Software Engineering Intern | SF</br>NYC | <div align="center"><a href="https://jobs.ashbyhq.com/baseten/4e6757f3-74c0-4d3d-9b0b-eb56ab561c37/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/513fb75b-6101-4a0f-96ad-e809fb8e0916?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 6d |
-| **[SEL](https://simplify.jobs/c/SEL?utm_source=GHList&utm_medium=company)** | Software Application Engineer Intern | Pullman, WA | <div align="center"><a href="https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Washington---Pullman/Software-Application-Engineer-Intern_2025-17664?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 6d |
 | **[Tencent](https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company)** | Cloud Media Services Intern | Palo Alto, CA | <div align="center"><a href="https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R105781?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 6d |
 | **[Allium](https://simplify.jobs/c/Allium?utm_source=GHList&utm_medium=company)** | Engineering Intern - AI 🛂 | New York | <div align="center"><a href="https://jobs.ashbyhq.com/allium/5d697ce5-b820-45c0-a101-86a05e1fb15e?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 6d |
 | Reality Defender | Computer Vision Intern | Global Remote | <div align="center"><a href="https://jobs.ashbyhq.com/realitydefender/39bb3911-38f3-4db6-9537-0ec90bfb7440?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 6d |
