@@ -9,11 +9,11 @@
 
 ---
 
-### Browse 327 Internship Roles by Category
+### Browse 329 Internship Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-internship-roles)** (175)
+💻 **[Software Engineering](#-software-engineering-internship-roles)** (176)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (69)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (70)
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (60)
 
@@ -74,6 +74,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Former Discover Intern - Technology Development Program Associate | Plano, TX</br>McLean, VA</br>Richmond, VA | <div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Technology-Development-Program-Associate---February-2026_R221902-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a2f002eb-5013-4a4b-9fb4-3401655cd29c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | Anduril Industries | Software Engineer Intern 🛂 | <details><summary>**6 locations**</summary>Atlanta, GA</br>Boston, MA</br>Costa Mesa, CA</br>Irvine, CA</br>Reston, VA</br>Seattle, WA</details> | <div align="center"><a href="https://job-boards.greenhouse.io/andurilindustries/jobs/4807506007?gh_jid=4807506007&gh_src=&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Notion | Software Engineer, AI | San Francisco, CA</br>New York, NY | <div align="center"><a href="https://jobs.ashbyhq.com/notion/5bc8cbb9-4d08-4217-a968-d485d1b39905?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | ↳ | Software Engineer, Mobile | San Francisco, CA</br>New York, NY | <div align="center"><a href="https://jobs.ashbyhq.com/notion/1bda6206-2258-4c1f-a585-ef31ee56f1d4?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
@@ -285,6 +286,7 @@
 
 | Company | Role | Location | Application | Age |
 | ------- | ---- | -------- | ------ | -- |
+| **[Capital One](https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company)** | Former Discover Intern - Data Analyst Associate | McLean, VA</br>Richmond, VA | <div align="center"><a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Former-Discover-Intern--Data-Analyst-Associate---2026_R221876-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2d64ad09-45f3-41ed-83d4-34d2bc305a9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div> | 0d |
 | **[Microsoft](https://simplify.jobs/c/Microsoft?utm_source=GHList&utm_medium=company)** | Data Science | Redmond, WA | <div align="center"><a href="https://jobs.careers.microsoft.com/global/en/job/1857312/Data-Science%3A-Internship-Opportunities-%E2%80%93-Redmond?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | Motional AD | Machine Learning Internship, Behaviors Research 🛂 | Boston, MA</br>Pittsburgh, PA</br>Remote in USA | <div align="center"><a href="https://job-boards.greenhouse.io/motional/jobs/6670062003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
 | **[Databricks](https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company)** | Data Science Intern | Mountain View, CA</br>San Francisco, CA | <div align="center"><a href="https://www.databricks.com/company/careers/university-recruiting/data-science-intern-2026-start-6866538002?gh_jid=6866538002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="88" alt="Apply"></a></div> | 0d |
