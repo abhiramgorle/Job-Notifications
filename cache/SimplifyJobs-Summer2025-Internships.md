@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 558 Internship Roles by Category
+### Browse 557 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (217)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (74)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (36)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (35)
 
 💼 **[Other](#-other-internship-roles)** (63)
 
@@ -1062,7 +1062,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer - Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Francisco, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.ashbyhq.com/gimlet/23e10dd6-e7c5-43f0-b14e-54ab999fccd9?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">15d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company">🔥 Palantir</a></strong></td>
@@ -4098,13 +4098,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">25d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Tenstorrent?utm_source=GHList&utm_medium=company">Tenstorrent</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Acceleration Kernel Developer Intern 🇺🇸</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Toronto, ON, Canada</br>Santa Clara, CA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4668120007?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/53a083aa-f7ae-4f4d-8a2d-4a9130721f72?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
-</tr>
-<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Optiver?utm_source=GHList&utm_medium=company">Optiver</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">FPGA Engineer Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Chicago, IL</td>
@@ -4158,7 +4151,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (11)</summary>
+<summary>🗃️ Inactive roles (12)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -4231,6 +4224,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">RTL Design Intern - CPU/AI Hardware 🇺🇸</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Austin, TX</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Acceleration Kernel Developer Intern 🇺🇸</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Toronto, ON, Canada</br>Santa Clara, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
 </tr>
