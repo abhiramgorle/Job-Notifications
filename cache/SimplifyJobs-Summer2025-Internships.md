@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 581 Internship Roles by Category
+### Browse 580 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (221)
 
@@ -19,7 +19,7 @@
 
 📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (75)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (43)
+🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (42)
 
 💼 **[Other](#-other-internship-roles)** (64)
 
@@ -890,14 +890,14 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern - Monetization Technology - Ads Creative</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7532460740410738952?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/779d2f66-723d-4e79-8ccb-416f18693b9e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">15d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Development Engineer in Test Intern - Tiktok-Intelligent Creation - BS/MS</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533136806755617031?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dbb85ac5-eb29-4db0-8722-1e7e4687ecb5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -3166,7 +3166,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Analytics Internship 🇺🇸</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Alexandria, VA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.kearneyco.com/jobs/4822?lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">30d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1mo</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Bill-Dot-Com?utm_source=GHList&utm_medium=company">BILL</a></strong></td>
@@ -4154,13 +4154,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">7d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694?utm_source=GHList&utm_medium=company">Regal Rexnord</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Application Engineer Co-op</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Vandalia, OH</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Engineer-Co-op_R25_04012?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/8e5afc51-e33d-4302-8aeb-102811b40f6d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
-</tr>
-<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Draper?utm_source=GHList&utm_medium=company">Draper</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Optics-Physics Sensor Engineering Co-op</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Cambridge, MA</td>
@@ -4326,7 +4319,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (12)</summary>
+<summary>🗃️ Inactive roles (13)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -4345,6 +4338,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Huntsville, AL</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">5d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694?utm_source=GHList&utm_medium=company">Regal Rexnord</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Application Engineer Co-op</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Vandalia, OH</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company">KBR</a></strong></td>
