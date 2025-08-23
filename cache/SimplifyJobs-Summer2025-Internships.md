@@ -9,19 +9,19 @@
 
 ---
 
-### Browse 615 Internship Roles by Category
+### Browse 612 Internship Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-internship-roles)** (235)
 
 📱 **[Product Management](#-product-management-internship-roles)** (34)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (156)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-internship-roles)** (155)
 
-📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (77)
+📈 **[Quantitative Finance](#-quantitative-finance-internship-roles)** (76)
 
 🔧 **[Hardware Engineering](#-hardware-engineering-internship-roles)** (44)
 
-💼 **[Other](#-other-internship-roles)** (69)
+💼 **[Other](#-other-internship-roles)** (68)
 
 ---
 
@@ -2364,13 +2364,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Merchants-Bank-Of-Indiana?utm_source=GHList&utm_medium=company">Merchants Bank of Indiana</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Risk Analytics Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Carmel, IN</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3518927?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/08d3d9af-17d4-4a2a-9d03-57037606b2c5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
-<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Skyworks?utm_source=GHList&utm_medium=company">Skyworks</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">AI Engineering Summer/Fall Co-Op 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Burlington, MA</td>
@@ -2606,14 +2599,14 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Financial Data Analyst Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><details><summary><strong>5 locations</strong></summary>Waukegan, IL</br>Milwaukee, WI</br>Pleasant Prairie, WI</br>Morton Grove, IL</br>Kenosha, WI</details></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2026_R256283?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/66d3d3bf-1746-4e5a-8d3a-b6e2b4b504af?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">6d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">7d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/b4966f20-7ca2-4e09-9e76-ea8708e860ec?utm_source=GHList&utm_medium=company">OneMain Financial</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Analytics Analyst Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Charlotte, NC</br>Wilmington, DE</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Analytics-Analyst-Intern_R2508-47528?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4fdf538d-216b-420b-b185-938552d4e348?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">6d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">7d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/WEC-Energy-Group?utm_source=GHList&utm_medium=company">WEC Energy Group</a></strong></td>
@@ -3404,7 +3397,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (24)</summary>
+<summary>🗃️ Inactive roles (25)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -3417,6 +3410,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Merchants-Bank-Of-Indiana?utm_source=GHList&utm_medium=company">Merchants Bank of Indiana</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Risk Analytics Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Carmel, IN</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Arch-Capital-Group?utm_source=GHList&utm_medium=company">Arch Capital Group</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Generative AI Summer Intern 🎓</td>
@@ -3620,13 +3620,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Quantitative Trading Internship</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">New York, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers-gtsx.icims.com/jobs/1562/quantitative-trading-internship---summer-2026/job?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Merchants-Bank-Of-Indiana?utm_source=GHList&utm_medium=company">Merchants Bank of Indiana</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Capital Markets Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Carmel, IN</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3518918?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bbf63b20-d066-4111-b240-60f7ff79e55f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
@@ -4152,7 +4145,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (7)</summary>
+<summary>🗃️ Inactive roles (8)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -4165,6 +4158,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Merchants-Bank-Of-Indiana?utm_source=GHList&utm_medium=company">Merchants Bank of Indiana</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Capital Markets Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Carmel, IN</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company">Wells Fargo</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Internship Risk Analytics and Decision Science (Masters) 🎓</td>
@@ -4403,7 +4403,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">3D Advanced Heterogeneous Integration Development Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Malta, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/XMLNAME-3D-Advanced-Heterogeneous-Integration-Development-Intern--Summer-2026-_JR-2502799?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/0437bd10-bdd3-457b-a8dd-9d99b4d8c150?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Samsung?utm_source=GHList&utm_medium=company">Samsung</a></strong></td>
@@ -4418,6 +4418,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Palo Alto, CA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://www.tesla.com/careers/search/job/247480?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Intelligent Camera Effects Software Engineer Intern - Effect-Tiktok</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533023896800495890?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/72600b58-238c-416b-938c-e472165215e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">15d</td>
 </tr>
 </tbody>
 </table>
@@ -4445,13 +4452,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Intelligent Camera Effects Software Engineer Intern - Effect-Tiktok</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">San Jose, CA</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://lifeattiktok.com/search/7533023896800495890?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/72600b58-238c-416b-938c-e472165215e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">15d</td>
-</tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company">Medtronic</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Engineering Intern Summer 2026</td>
@@ -4608,14 +4608,14 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">3D Advanced Heterogeneous Integration Development Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Malta, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">13d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company">Dell Technologies</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Dell ISG Hardware Engineering Undergraduate Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Round Rock, TX</br>Westborough, MA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">14d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">15d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
@@ -4708,13 +4708,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Information Technology 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Berkeley Heights, NJ</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://careers.loreal.com/en_US/jobs/JobDetail/2026-L-Or-al-USA-Summer-Internship-Program-Information-Technology-IT-Undergraduate/215820?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
-</tr>
-<tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Merchants-Bank-Of-Indiana?utm_source=GHList&utm_medium=company">Merchants Bank of Indiana</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Information Security Intern</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Carmel, IN</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3518937?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/da25d9a4-381f-4ff1-bc0c-4240b1bbc1fe?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
 </tr>
 <tr>
@@ -5168,6 +5161,33 @@
 </tbody>
 </table>
 
+
+<details>
+<summary>🗃️ Inactive roles (1)</summary>
+
+<table style="width: 100%; border-collapse: collapse;">
+<thead>
+<tr>
+<th style="width: 25%; min-width: 200px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Company</th>
+<th style="width: 30%; min-width: 250px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Role</th>
+<th style="width: 20%; min-width: 150px; padding: 8px; text-align: left; border-bottom: 2px solid #ddd;">Location</th>
+<th style="width: 15%; min-width: 120px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Application</th>
+<th style="width: 10%; min-width: 80px; padding: 8px; text-align: center; border-bottom: 2px solid #ddd;">Age</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Merchants-Bank-Of-Indiana?utm_source=GHList&utm_medium=company">Merchants Bank of Indiana</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Information Security Intern</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Carmel, IN</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+</tr>
+</tbody>
+</table>
+
+
+</details>
 
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
   <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
