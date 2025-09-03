@@ -9,7 +9,7 @@
 
 ---
 
-### Browse 1139 Internship Roles by Category
+### Browse 1138 Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (383)
 
@@ -21,7 +21,7 @@
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-hardware-engineering-internship-roles)** (93)
 
-💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-other-internship-roles)** (183)
+💼 **[Other](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-other-internship-roles)** (182)
 
 ---
 
@@ -2252,7 +2252,7 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Software Engineer Intern, Front-End, PMS 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">New York, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.ashbyhq.com/Talos-Trading/2db01769-8f00-4652-b790-b7cff80bc891?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">27d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">28d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">🔥 <strong><a href="https://simplify.jobs/c/ByteDance?utm_source=GHList&utm_medium=company">ByteDance</a></strong></td>
@@ -3992,14 +3992,14 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Analyst Intern 🎓 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Remote in USA</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Intern-SAS-Team-Data-Analyst_REQ-4157?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Dow-Jones?utm_source=GHList&utm_medium=company">Dow Jones</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Analyst Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">New York, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://dowjones.wd1.myworkdayjobs.com/en-US/dow_jones_career/job/New-York-City/Summer-2026-Internship---Data-Analyst-Intern_Job_Req_48497?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Dicks-Sporting-Goods?utm_source=GHList&utm_medium=company">Dick's Sporting Goods</a></strong></td>
@@ -5236,14 +5236,14 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Science Apprentice</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Highland Park, IL</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.grainger.com/job/LAKE-FOREST-Data-Science-Apprentice-(Summer-2026)-IL-60045-5202/1315740400/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/eb6d1b50-8f9a-416d-8844-94ac41192728?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">19d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Data Science Intern</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Highland Park, IL</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://jobs.grainger.com/job/LAKE-FOREST-Data-Science-Intern-(Summer-2026)-IL-60045-5202/1315732800/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/85b92c21-5915-47f0-bc98-dd24b91f0bfb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">19d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">20d</td>
 </tr>
 <tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>TetraMem</strong></td>
@@ -6292,10 +6292,10 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Quantitative Finance Associate 🎓</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">7th Avenue, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Finance-Associate-Summer-Internship-Program-2026-New-York_JR-0000071534?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">0d</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">1d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Barclays?utm_source=GHList&utm_medium=company">Barclays</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">↳</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Quantitative Finance Associate 🎓 🛂</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">New York, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://search.jobs.barclays/job/-/-/13015/85560168928?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/6cFAMUo.png" width="80" alt="Apply"></a></div></td>
@@ -8743,13 +8743,6 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
 </tr>
 <tr>
-<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Equitable-Holdings?utm_source=GHList&utm_medium=company">Equitable Holdings</a></strong></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">2026 Summer Intern - Information Technology</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee;">Charlotte, NC</br>Syracuse, NY</td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;"><div align="center"><a href="https://equitable.taleo.net/careersection/eqh_1/jobdetail.ftl?job=250000EE&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/dc67bb50-4caa-410c-baf4-8f197e0cf9fc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
-</tr>
-<tr>
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong>QTS</strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Technology Project Management 🇺🇸</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Suwanee, GA</td>
@@ -9265,7 +9258,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (8)</summary>
+<summary>🗃️ Inactive roles (9)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9324,6 +9317,13 @@
 <td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Markel-Group?utm_source=GHList&utm_medium=company">Markel Group, Inc.</a></strong></td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">IT Internship Program</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee;">Richmond, VA</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
+</tr>
+<tr>
+<td style="padding: 8px; border-bottom: 1px solid #eee;"><strong><a href="https://simplify.jobs/c/Equitable-Holdings?utm_source=GHList&utm_medium=company">Equitable Holdings</a></strong></td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">2026 Summer Intern - Information Technology</td>
+<td style="padding: 8px; border-bottom: 1px solid #eee;">Charlotte, NC</br>Syracuse, NY</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">🔒</td>
 <td style="padding: 8px; border-bottom: 1px solid #eee; text-align: center;">8d</td>
 </tr>
