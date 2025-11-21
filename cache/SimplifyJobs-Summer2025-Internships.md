@@ -9,9 +9,9 @@
 
 ---
 
-### Browse 1317 Internship Roles by Category
+### Browse 1316 Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (389)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-software-engineering-internship-roles)** (388)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2026-Internships/blob/dev/README.md#-product-management-internship-roles)** (125)
 
@@ -1165,7 +1165,7 @@
 <td>Advanced Degree Software Engineer Intern - Database Technologies 🎓</td>
 <td>San Carlos, CA</td>
 <td><div align="center"><a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/312194?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/92a5399f-b522-4c9e-9a9f-12f28ab2f987?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Epic-Games?utm_source=GHList&utm_medium=company">Epic Games</a></strong></td>
@@ -1529,7 +1529,7 @@
 <td>Intern - Foundry</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Summer-Intern--Foundry_R51651-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f80dbf03-4f4a-4c3f-a72e-6175d8548c0d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bloom-Energy?utm_source=GHList&utm_medium=company">Bloom Energy</a></strong></td>
@@ -1683,14 +1683,14 @@
 <td>IT Software Developer Intern</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/IT-Software-Developer-Intern_JR-20775?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f0fe7883-fc9c-4a50-bd63-46a5efe0eb64?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Full Stack Developer Intern</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Full-Stack-Developer-Intern_JR-20763?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/9315b6c7-d48c-4f7f-8902-fd77b98f5a55?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
@@ -2089,13 +2089,6 @@
 <td>Software Engineer Intern - </td>
 <td>San Carlos, CA</td>
 <td><div align="center"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210885?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c49812e6-c9d4-4915-ac5b-0084cf2231a9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
-<td>Software Engineering Intern - Full-Stack - Java</td>
-<td>Jacksonville, FL</td>
-<td><div align="center"><a href="https://careers-ice.icims.com/jobs/11614/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4e79f79a-bf73-45f0-a035-c8ed56f6cbcd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -2817,7 +2810,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (1663)</summary>
+<summary>🗃️ Inactive roles (1664)</summary>
 
 <table>
 <thead>
@@ -3206,7 +3199,7 @@
 <td>Product Engineering Co-Op Summer 2026 - Rehlko</td>
 <td>Manitowoc, WI</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/T-Mobile?utm_source=GHList&utm_medium=company">T-Mobile</a></strong></td>
@@ -3451,17 +3444,17 @@
 <td>Software Engineer Intern - </td>
 <td>Orlando, FL</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
 <td>Software Engineering Intern - Summer 2026</td>
 <td>Glendale, CA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
+<td>↳</td>
 <td>Software Engineering Intern - Summer 2026</td>
 <td>NYC</td>
 <td>🔒</td>
@@ -3612,7 +3605,7 @@
 <td>Software Engineer Intern</td>
 <td>Bozeman, MT</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Disney?utm_source=GHList&utm_medium=company">The Walt Disney Company</a></strong></td>
@@ -3885,7 +3878,7 @@
 <td>Intern – Graduate Students Only - Software Engineer 🎓</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>26d</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company">Peraton</a></strong></td>
@@ -4346,6 +4339,13 @@
 <td><strong><a href="https://simplify.jobs/c/SageSure-Insurance-Managers?utm_source=GHList&utm_medium=company">SageSure</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/ICEMarkets?utm_source=GHList&utm_medium=company">Intercontinental Exchange</a></strong></td>
+<td>Software Engineering Intern - Full-Stack - Java</td>
+<td>Jacksonville, FL</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -5190,7 +5190,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Rolls-Royce-Motorcars?utm_source=GHList&utm_medium=company">Rolls Royce</a></strong></td>
 <td>Software Developer Intern - Innovation and Digitalisation</td>
 <td>Solihull, UK</td>
 <td>🔒</td>
@@ -11433,6 +11433,13 @@
 <td>🔒</td>
 <td>2mo</td>
 </tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
+<td>2026 Software Engineer Immersion Program – Summer Internship</td>
+<td>Glasgow, UK</td>
+<td>🔒</td>
+<td>2mo</td>
+</tr>
 </tbody>
 </table>
 
@@ -11459,13 +11466,6 @@
 </thead>
 <tbody>
 
-<tr>
-<td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
-<td>2026 Software Engineer Immersion Program – Summer Internship</td>
-<td>Glasgow, UK</td>
-<td>🔒</td>
-<td>2mo</td>
-</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Netic?utm_source=GHList&utm_medium=company">Netic</a></strong></td>
 <td>Software Engineer, Intern</td>
@@ -14919,7 +14919,7 @@
 <td>Internship - Research & Development - Summer 2026</td>
 <td>Sioux City, IA</td>
 <td><div align="center"><a href="https://hcsb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2208679?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c75b80a8-5839-43fc-9674-d431c8c00d26?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Versana?utm_source=GHList&utm_medium=company">Versana</a></strong></td>
@@ -14989,14 +14989,14 @@
 <td>Product Strategist Intern - Global Monetization Product and Technology - 2026 Summer - MBA 🎓</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7566369771879958789?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f3d990d7-b256-4576-899c-22d211d87fce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vermeer?utm_source=GHList&utm_medium=company">Vermeer</a></strong></td>
 <td>Digital Delivery Manager Intern - Summer 2026</td>
 <td>Newton, IA</td>
 <td><div align="center"><a href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Digital-Delivery-Manager-Intern_REQ-19511?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/015fc842-ca5d-4895-8349-8069782a9314?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/AAR?utm_source=GHList&utm_medium=company">AAR</a></strong></td>
@@ -15045,10 +15045,10 @@
 <td>Product Management MBA Internship - Summer 2026 🎓</td>
 <td>Delaware</br>Ohio</td>
 <td><div align="center"><a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20257346?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/63658a67-0174-448a-865d-a4a02140771d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>24d</td>
+<td>25d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Vertiv?utm_source=GHList&utm_medium=company">Vertiv</a></strong></td>
+<td>↳</td>
 <td>Product Management MBA Internship - Summer 2026 🎓</td>
 <td>Delaware</br>Ohio</td>
 <td><div align="center"><a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20256935?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/1509c6c8-269b-4e0f-8c3c-9c56d987ca5c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -18443,7 +18443,7 @@
 <td>Research Internship - Olmo</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/thealleninstitute/jobs/7376971?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/7edb045f-d05d-483d-9eee-2dc4dc15ed5c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/State-Street?utm_source=GHList&utm_medium=company">State Street</a></strong></td>
@@ -18884,14 +18884,14 @@
 <td>AI/ Gen AI Engineering Internship - Summer 2026</td>
 <td>New Albany, OH</td>
 <td><div align="center"><a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259730?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/32bd21a0-56f1-440d-8131-8f53c3aaa411?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
 <td>GE Vernova Multi-modal Generative AI Research Intern - Summer 2026</td>
 <td>Schenectady, NY</td>
 <td><div align="center"><a href="https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Niskayuna/GE-Vernova-Multi-modal-Generative-AI-Research-Intern---Summer-2026_R5023148-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4f307a1b-4357-46b1-8d91-7735286aa651?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Waymo?utm_source=GHList&utm_medium=company">Waymo</a></strong></td>
@@ -19227,28 +19227,28 @@
 <td>2026 Applied AI/ML Associate Program – Internship</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210681736?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b1cc300d-7a4f-45f2-9696-a42ac572f830?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Prologis?utm_source=GHList&utm_medium=company">Prologis</a></strong></td>
 <td>Intern – IT</td>
 <td>Denver, CO</td>
 <td><div align="center"><a href="https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/Intern--IT_R6198-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/f09c651e-71a3-415b-9933-564c4a4a6f33?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Intern – Global Strategy Analytics</td>
 <td>SF</td>
 <td><div align="center"><a href="https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/San-Francisco-California/Intern--Global-Strategy-Analytics_R6195?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/fee11d35-8013-4523-9714-1e3b0a590276?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>AI Intern</td>
 <td>SF</td>
 <td><div align="center"><a href="https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/San-Francisco-California/Intern--IT_R6209?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/4c9fee9f-8e85-45ce-837a-39accd4588c4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
@@ -19514,14 +19514,14 @@
 <td>Data Science Intern</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/Data-Science-Intern_JR-20761?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/ba668c84-13f4-4a1e-b983-df156ce4b884?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KLA-Corporation?utm_source=GHList&utm_medium=company">KLA Corporation</a></strong></td>
 <td>Advanced Algorithm Intern</td>
 <td>Milpitas, CA</td>
 <td><div align="center"><a href="https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Advanced-Algorithm-Intern_2532207-2?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/bb5de2a1-bd81-45b0-8a7c-a37974efdb6a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
@@ -19584,14 +19584,14 @@
 <td>Engineering Internship - Summer 2026</td>
 <td>Elyria, OH</td>
 <td><div align="center"><a href="https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/20256806?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/37b2a063-91f5-4f47-ba25-0f4236f7deeb?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GE-Vernova?utm_source=GHList&utm_medium=company">GE Vernova</a></strong></td>
 <td>GE Vernova AMRT Process Development Intern - Summer 2026 🎓</td>
 <td>Greenville, SC</td>
 <td><div align="center"><a href="https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/GE-Vernova-AMRT-Process-Development-Intern---Summer-2026_R5023032-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/aea6867a-cc2b-4a6a-89b1-7ccdbb154f5d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Walmart?utm_source=GHList&utm_medium=company">Walmart</a></strong></td>
@@ -20378,7 +20378,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
+<td>↳</td>
 <td>Intern - Research Scientist 🎓</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2026-Intern---Research-Scientist_R160881?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/70e4b4d1-1d74-47e9-b48d-30e808bcebbd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -21141,14 +21141,14 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
 <td>Machine Learning Intern - Multiple Teams 🎓</td>
 <td><details><summary><strong>4 locations</strong></summary>Palo Alto, CA</br>Seattle, WA</br>SF</br>NYC</details></td>
 <td><div align="center"><a href="https://www.pinterestcareers.com/job-form?gh_jid=7210896&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/93797a91-f6fb-4c8d-ac0c-e5652a8294dc?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/Pinterest?utm_source=GHList&utm_medium=company">Pinterest</a></strong></td>
+<td>↳</td>
 <td>Machine Learning Intern - Multiple Teams 🎓</td>
 <td>Toronto, ON, Canada</td>
 <td><div align="center"><a href="https://www.pinterestcareers.com/job-form?gh_jid=7268767&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d585f4f4-f359-464a-8f0e-fbe69c53513d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
@@ -22661,56 +22661,56 @@
 <td>Program Operations – Intern - Performance Measure Improvement</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Takeda?utm_source=GHList&utm_medium=company">Takeda</a></strong></td>
 <td>2026 U.S Summer Internship Program: AI Solution Developer - Shinrai Center for AI/ML</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 U.S. Summer Internship Program: Quantitative Clinical Pharmacology – AI/RAG Intern - Qcp</td>
 <td>Cambridge, MA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>2026 U.S Summer Internship Program: Data Engineer Intern</td>
 <td>Lexington, MA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/State-Street?utm_source=GHList&utm_medium=company">State Street</a></strong></td>
 <td>AI Enablement Software Developer – Internship - AI Enablement</td>
 <td>Quincy, MA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Adobe?utm_source=GHList&utm_medium=company">Adobe</a></strong></td>
 <td>Intern - AI Knowledge Management</td>
 <td>SF</br>San Jose, CA</br>Lehi, UT</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Stifel?utm_source=GHList&utm_medium=company">Stifel</a></strong></td>
 <td>Data Analyst Intern-Summer 2026</td>
 <td>St. Louis, MO</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vertiv?utm_source=GHList&utm_medium=company">Vertiv</a></strong></td>
 <td>Project Engineering Internship</td>
 <td>Delaware</br>Ohio</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Electronic-Arts?utm_source=GHList&utm_medium=company">Electronic Arts</a></strong></td>
@@ -23116,14 +23116,14 @@
 <td>Summer Internship - Collection Platforms & AI</td>
 <td>NYC</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Prologis?utm_source=GHList&utm_medium=company">Prologis</a></strong></td>
 <td>Intern – Mobility - </td>
 <td>SF</td>
 <td>🔒</td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tencent?utm_source=GHList&utm_medium=company">Tencent</a></strong></td>
@@ -23305,7 +23305,7 @@
 <td>Automation Analyst Intern</td>
 <td>Deerfield Beach, FL</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NTT-Data?utm_source=GHList&utm_medium=company">NTT Data</a></strong></td>
@@ -23515,7 +23515,7 @@
 <td>Data Science Intern - Summer 2026</td>
 <td>Needham, MA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/ServiceNow?utm_source=GHList&utm_medium=company">ServiceNow</a></strong></td>
@@ -26290,7 +26290,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Clarios?utm_source=GHList&utm_medium=company">Clarios</a></strong></td>
+<td>↳</td>
 <td>IT Digital/AI Intern - Multiple Teams</td>
 <td>Milwaukee, WI</td>
 <td>🔒</td>
@@ -33933,14 +33933,14 @@
 <td>Quantitative Developer – Summer Intern 2026</td>
 <td>SF</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/midpointmarkets/jobs/4955617008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/e8d136be-0244-40e7-a644-1578d31b9114?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Quantitative Researcher – Summer Intern 2026</td>
 <td>SF</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/midpointmarkets/jobs/4955608008?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/d7027f5e-eb84-445f-86a1-9234b52bd04e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Brevan-Howard?utm_source=GHList&utm_medium=company">Brevan Howard</a></strong></td>
@@ -34224,7 +34224,7 @@
 <td>Investment Analyst Intern - Investment Team - Portfolio Management</td>
 <td>Deerfield Beach, FL</td>
 <td>🔒</td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/American-Bankers-Association?utm_source=GHList&utm_medium=company">American Bankers Association</a></strong></td>
@@ -36522,21 +36522,21 @@
 <td>2026 Lab Engineering Co-Op - La Crosse - WI</td>
 <td>Winona, MN</td>
 <td><div align="center"><a href="https://careers.tranetechnologies.com/global/en/job/2504047?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/b60bad1d-ecba-4307-be28-b156c4fb7e20?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Solar-Turbines?utm_source=GHList&utm_medium=company">Solar Turbines</a></strong></td>
 <td>2026 Internship - Solutions. Platforms. Engineered</td>
 <td>San Diego, CA</td>
 <td><div align="center"><a href="https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2026-Internship---Solutions-Platforms-Engineered_R0000316312?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/84e48a1f-043e-42ec-b855-f05031bcb7ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Reliable-Robotics?utm_source=GHList&utm_medium=company">Reliable Robotics</a></strong></td>
 <td>Electrical System Integration Engineer Intern</td>
 <td>Mountain View, CA</td>
 <td><div align="center"><a href="https://jobs.lever.co/reliable/da7dab38-766f-43f7-bfeb-7afecc233c92/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/c927f806-c0dd-4dc7-a542-f67a886def6c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Vertiv?utm_source=GHList&utm_medium=company">Vertiv</a></strong></td>
@@ -36655,7 +36655,7 @@
 <td>Analog Layout Design Summer 2026 Intern</td>
 <td>Morrisville, NC</td>
 <td><div align="center"><a href="https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/CARY/Analog-Layout-Design-Summer-2026-Intern_R51676?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/df707e12-32af-43cd-a81a-d42d81920402?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong>Metalenz</strong></td>
@@ -36739,7 +36739,7 @@
 <td>Applications Engineering Intern/Co-op</td>
 <td>Holland, MI</td>
 <td><div align="center"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Holland-Michigan-United-States/Applications-Engineering-Internship-Co-op_R0109318?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/983dae1b-c855-4977-80f5-e88a6e2c412a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Rivos?utm_source=GHList&utm_medium=company">Rivos</a></strong></td>
@@ -37057,7 +37057,7 @@
 <td>1mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Hermeus?utm_source=GHList&utm_medium=company">Hermeus</a></strong></td>
 <td>Test Engineering Intern</td>
 <td>Atlanta, GA</td>
 <td><div align="center"><a href="https://jobs.lever.co/hermeus/641bbc29-5866-4022-8b03-63de917430ed/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> <a href="https://simplify.jobs/p/33143a33-e4b0-4ca1-b416-5966ad2f9324?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="26" alt="Simplify"></a></div></td>
