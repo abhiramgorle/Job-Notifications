@@ -231,7 +231,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7690510003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/135c5ccd-f27d-427c-b564-06e09bf3b886?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Collective?utm_source=GHList&utm_medium=company">Collective</a></strong></td>
@@ -1183,7 +1183,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1256)</summary>
+<summary>🗃️ Inactive roles (1251)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1768,7 +1768,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Concord, MA</br>Tewksbury, MA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company">Medtronic</a></strong></td>
@@ -7137,14 +7137,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Product Software Engineer 🇺🇸</td>
 <td>Annapolis Junction, MD</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong>Oklo</strong></td>
 <td>Junior Software Engineer</td>
 <td>Santa Clara, CA</br>Remote in USA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuit?utm_source=GHList&utm_medium=company">Intuit</a></strong></td>
@@ -9953,41 +9953,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong>ElevenLabs</strong></td>
-<td>Growth Engineering - Mobile 🛂</td>
-<td>Remote Globally</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong>Docusign</strong></td>
-<td>Software Engineering 🛂</td>
-<td>Seattle, WA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/2k?utm_source=GHList&utm_medium=company">2K</a></strong></td>
-<td>Software Development Engineer in Test I (SDET I)</td>
-<td>Vancouver, BC, CAN</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer I 🇺🇸</td>
-<td>Aurora, CO</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer I 🇺🇸</td>
-<td>Indianapolis, IN</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -10039,7 +10004,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (37)</summary>
+<summary>🗃️ Inactive roles (36)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -10301,13 +10266,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
 <td>Junior Technical Product Owner</td>
 <td>Glasgow, UK</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong>NorthAB</strong></td>
-<td>Associate Product Engineer 🛂</td>
-<td>Remote in USA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -11337,7 +11295,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Travelers?utm_source=GHList&utm_medium=company">The Travelers Companies</a></strong></td>
 <td>Data Engineer 1 - Multiple Teams</td>
 <td>Hartford, CT</br>St Paul, MN</td>
 <td>🔒</td>
@@ -12572,7 +12530,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Product Designer - Unified Trading</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Citigroup?utm_source=GHList&utm_medium=company">Citi</a></strong></td>
@@ -12963,7 +12921,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Platform Software Developer New Grad</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
