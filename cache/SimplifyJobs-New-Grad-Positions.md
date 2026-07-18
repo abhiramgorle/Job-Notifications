@@ -5,9 +5,9 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 223 New Grad Roles by Category
+### Browse 225 New Grad Roles by Category
 
-💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (155)
+💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (156)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (5)
 
@@ -15,7 +15,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (11)
 
-🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (18)
+🔧 **[Hardware Engineering](#-hardware-engineering-new-grad-roles)** (19)
 
 💼 **[Other](#-other-new-grad-roles)** (0)
 
@@ -232,6 +232,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Nashville, TN</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/getbuilt/jobs/4713164005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/110f48d8-5c60-48c9-ab11-142d1241591f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>9d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
+<td>Junior Software Engineer - AI Agent Platform</td>
+<td>Alberta, Canada</br>Remote in Canada</td>
+<td><div align="center"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fcd95104-5b2a-4e23-bb5e-ee0412e59f2c?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SimpliSafe?utm_source=GHList&utm_medium=company">SimpliSafe</a></strong></td>
@@ -934,6 +941,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>3mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">🔥 Salesforce</a></strong></td>
+<td>Software Engineering AMTS College Grad</td>
+<td><details><summary><strong>5 locations</strong></summary>Palo Alto, CA</br>Seattle, WA</br>SF</br>Dallas, TX</br>Bellevue, WA</details></td>
+<td><div align="center"><a href="https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5ffb792a-06f6-4670-b8ba-24c5402f1824?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>3mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Ellipsis-Labs?utm_source=GHList&utm_medium=company">Ellipsis Labs</a></strong></td>
 <td>Software Engineer – New Grads - Multiple Teams</td>
 <td>NYC</td>
@@ -1157,19 +1171,12 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><div align="center"><a href="https://job-boards.greenhouse.io/uareai/jobs/4036519009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b013d54d-e343-4859-badb-79f7e0e59c09?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Lightfield?utm_source=GHList&utm_medium=company">Lightfield</a></strong></td>
-<td>AI Product Engineer – New Grad</td>
-<td>SF</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/Lightfield/bb758825-5422-46c4-86c3-0be1cc89148f/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/741d8e02-7115-446e-a53f-21eda887c7e0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
 
 <details>
-<summary>🗃️ Inactive roles (1183)</summary>
+<summary>🗃️ Inactive roles (1180)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -1426,13 +1433,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Hartford, CT</br>St Paul, MN</td>
 <td>🔒</td>
 <td>9d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/MotorolaSolutions?utm_source=GHList&utm_medium=company">Motorola</a></strong></td>
-<td>Junior Software Engineer - AI Agent Platform</td>
-<td>Alberta, Canada</br>Remote in Canada</td>
-<td>🔒</td>
-<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Comcast?utm_source=GHList&utm_medium=company">Comcast</a></strong></td>
@@ -4749,13 +4749,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Meridian-Link?utm_source=GHList&utm_medium=company">Meridian Link</a></strong></td>
 <td>Software Engineer 1</td>
 <td>Remote in USA</td>
-<td>🔒</td>
-<td>3mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">🔥 Salesforce</a></strong></td>
-<td>Software Engineering AMTS College Grad</td>
-<td><details><summary><strong>5 locations</strong></summary>Palo Alto, CA</br>Seattle, WA</br>SF</br>Dallas, TX</br>Bellevue, WA</details></td>
 <td>🔒</td>
 <td>3mo</td>
 </tr>
@@ -8785,7 +8778,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>7mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>2026 Full-time - Software Engineer I</td>
 <td>Fort Wayne, IN</td>
 <td>🔒</td>
@@ -9453,13 +9446,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company">mthree</a></strong></td>
 <td>Junior Software Developer</td>
 <td>Montreal, QC, Canada</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong>WellSky</strong></td>
-<td>Associate Software Engineer 🛂</td>
-<td>Overland Park, KS</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
@@ -12178,6 +12164,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>9d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>FPGA Engineer 1</td>
+<td>McKinney, TX</td>
+<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineer-I_01857935?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e0091951-b28a-4c4f-bad1-73a0ad757198?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Cerebras-Systems?utm_source=GHList&utm_medium=company">Cerebras</a></strong></td>
 <td>Software Engineer New Grad</td>
 <td>Sunnyvale, CA</td>
@@ -12266,7 +12259,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (326)</summary>
+<summary>🗃️ Inactive roles (324)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12353,13 +12346,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>↳</td>
 <td>New College Grad - Semiconductor Verification Design Engineer - DRAM Products Group</td>
 <td>Boise, ID</td>
-<td>🔒</td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>FPGA Engineer 1</td>
-<td>McKinney, TX</td>
 <td>🔒</td>
 <td>9d</td>
 </tr>
@@ -14551,13 +14537,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Entrust?utm_source=GHList&utm_medium=company">Entrust</a></strong></td>
 <td>Firmware Engineer 1</td>
 <td>Shakopee, MN</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
-<td>2026 Associate Embedded Software/Embedded Software Engineer 🇺🇸</td>
-<td>Buffalo NY</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
