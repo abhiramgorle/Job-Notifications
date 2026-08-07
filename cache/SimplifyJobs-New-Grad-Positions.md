@@ -1589,7 +1589,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (1190)</summary>
+<summary>🗃️ Inactive roles (1188)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -9918,20 +9918,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>🔒</td>
 <td>7mo</td>
 </tr>
-<tr>
-<td>↳</td>
-<td>2026 Full-time - Software Engineer I</td>
-<td>Fort Wayne, IN</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Software Engineer 1</td>
-<td>San Jose, CA</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -10812,7 +10798,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 
 <details>
-<summary>🗃️ Inactive roles (271)</summary>
+<summary>🗃️ Inactive roles (270)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -12712,13 +12698,6 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Associate Data Engineer/ Data Engineer 🇺🇸</td>
 <td>Linthicum, MD</br>Annapolis Junction, MD</td>
-<td>🔒</td>
-<td>7mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Axos-Bank?utm_source=GHList&utm_medium=company">Axos Bank</a></strong></td>
-<td>Junior Business & Technology Analyst</td>
-<td>San Diego, CA</td>
 <td>🔒</td>
 <td>7mo</td>
 </tr>
